@@ -1,0 +1,54 @@
+{
+"custom.archeryrange": {"sounds": ["custom/archeryrange"]}
+,
+"custom.barracks": {"sounds": ["custom/barracks"]}
+,
+"custom.castle": {"sounds": ["custom/castle"]}
+,
+"custom.chat": {"sounds": ["custom/chat"]}
+,
+"custom.defeat": {"sounds": ["custom/defeat"]}
+,
+"custom.gatherpoint": {"sounds": ["custom/gatherpoint"]}
+,
+"custom.militarycreation": {"sounds": ["custom/militarycreation"]}
+,
+"custom.mill": {"sounds": ["custom/mill"]}
+,
+"custom.playerdefeated": {"sounds": ["custom/playerdefeated"]}
+,
+"custom.research": {"sounds": ["custom/research"]}
+,
+"custom.spy": {"sounds": ["custom/spy"]}
+,
+"custom.stable": {"sounds": ["custom/stable"]}
+,
+"custom.tower": {"sounds": ["custom/tower"]}
+,
+"custom.towncenter": {"sounds": ["custom/towncenter"]}
+,
+"custom.victory": {"sounds": ["custom/victory"]}
+,
+"custom.villagercreation": {"sounds": ["custom/villagercreation"]}
+,
+"custom.mute": {"sounds": ["custom/mute"]}
+,
+"custom.bird": {"sounds": [
+"custom/tf1",
+"custom/tf2",
+"custom/tf3",
+"custom/tf4",
+"custom/tf5",
+"custom/tf6",
+"custom/tf7",
+"custom/tf8"
+]},
+"custom.bgm": {
+"sounds": ["custom/bgm1","custom/bgm2","custom/bgm3"]
+}
+}
+
+
+
+
+
